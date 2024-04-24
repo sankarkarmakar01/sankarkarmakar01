@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm sankarkarmakar01</h1>
 <h3 align="center">A jonior level programmer and a college student</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1gNlOdmer_Vd_-9K-fbrDP&ust=1714059238707000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCEo7WW24UDFQAAAAAdAAAAABAh)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarkarmakar01&label=Profile%20views&color=0e75b6&style=flat" alt="sankarkarmakar01" /> </p>
